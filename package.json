@@ -1,0 +1,19 @@
+{
+  "name": "sql-script",
+  "version": "1.0.0",
+  "description": "This app parses a text file containing results from a SQL database and converts it into an SQL file.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cruzroyivan/sql-script.git"
+  },
+  "author": "Ivan Cruz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cruzroyivan/sql-script/issues"
+  },
+  "homepage": "https://github.com/cruzroyivan/sql-script#readme"
+}
